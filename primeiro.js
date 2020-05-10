@@ -1,3 +1,3 @@
 var nota;
-nota = 100;
+nota = 10;
 alert("Resultado:" + nota);
